@@ -2,38 +2,12 @@
 Console Bank Application
 ********Console Bank Application by Chukwuemeka Emmanuel Obasi, student ID 23606******
 
-          /T /I
-                              / |/ | .-~/
-                          T\ Y  I  |/  /  _
-         /T               | \I  |  I  Y.-~/
-        I l   /I       T\ |  |  l  |  T  /
-     T\ |  \ Y l  /T   | \I  l   \ `  l Y
- __  | \l   \l  \I l __l  l   \   `  _. |
- \ ~-l  `\   `\  \  \\ ~\  \   `. .-~   |
-  \   ~-. "-.  `  \  ^._ ^. "-.  /  \   |
-.--~-._  ~-  `  _  ~-_.-"-." ._ /._ ." ./
- >--.  ~-.   ._  ~>-"    "\\   7   7   ]
-^.___~"--._    ~-{  .-~ .  `\ Y . /    |
- <__ ~"-.  ~       /_/   \   \I  Y   : |
-   ^-.__           ~(_/   \   >._:   | l______
-       ^--.,___.-~"  /_/   !  `-.~"--l_ /     ~"-.
-              (_/ .  ~(   /'     "~"--,Y   -=b-. _)
-               (_/ .  \  :           / l      c"~o \
-                \ /    `.    .     .^   \_.-~"~--.  )
-                 (_/ .   `  /     /       !       )/
-                  / / _.   '.   .':      /        '
-                  ~(_/ .   /    _  `  .-<_
-                    /_/ . ' .-~" `.  / \  \          ,z=.
-                    ~( /   '  :   | K   "-.~-.______//
-                      "-,.    l   I/ \_    __{--->._(==.
-                       //(     \  <    ~"~"     //
-                      /' /\     \  \     ,v=.  ((
-                    .^. / /\     "  }__ //===-  `
-                   / / ' '  "-.,__ {---(==-    
-                 .^ '       :  T  ~"   ll       
-                / .  .  . : | :!        \\
-               (_/  /   | | j-"          ~^
-                 ~-<_(_.^-~"
+      . (҂`_´)
+<,︻╦̵̵̿╤─ ҉ ~ •
+█۞███████]▄▄▄▄▄▄▄▄▄▄▃ ●●●
+▂▄▅█████████▅▄▃▂…
+[███████████████████]
+◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙
 
 =============================================================================================
 
@@ -67,8 +41,13 @@ Creating Accounts
 
 2.	The system should create accounts based on the following rules:
 The filename will be called xx-nn-yy-zz where xx is the initials of the customer, nn is the length of the total name (first name and last name, yy is the alphabetical position of the first initial and zz is the alphabetical position of the second initial (see table below) - together they make up the pin number
-A	B	C	D	E	F	G	H	I	J	  K  	L  	M	   N	O	  P  	Q	  R	   S   T  U 	V   W   X   Y   Z 
-1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26
+
+
+A    	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R 								
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18
+-------------------------------------------------------------------------
+S         T        U         V           W       X         Y         Z  
+19        20       21       22           23      24        25        26 
 
 
 
@@ -76,10 +55,12 @@ A	B	C	D	E	F	G	H	I	J	  K  	L  	M	   N	O	  P  	Q	  R	   S   T  U 	V   W   X   Y   
 ===================================================================================================================================
 
 
-While doing this project I learned many new things concerning c# and .NET .
+While doing this project I learned many new things concerning c# and .NET 
 creating and manipulating txt files, reading writing and appending files proved to be useful.
 Although, the code still has a few bugs that will be worked on in the futuer.
 In general, the code seems to be working and doing majority of what it needs to do.
+
+
 
 
 ▀█▀▐░░░░░░░░▐░░░░░░░░░░░░░░
